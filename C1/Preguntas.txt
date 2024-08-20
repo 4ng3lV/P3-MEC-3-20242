@@ -1,0 +1,44 @@
+##¿Como se instancia un objeto?
+{
+	~Objeto= Clase();
+	=Clase objeto = new clase();
+	~Clase.objeto();
+	~Objeto.Clase();
+ }
+##¿A que librería pertenece el método System.in?
+{
+	~Math.h
+	~Listener
+	=Scanner
+	~Main
+ }
+##El polimorfismo alude al modo en que se pueden crear y utilizar dos o más métodos con el mismo nombre para ejecutar funciones diferentes{T}
+
+##El método while se define como un:
+{
+	~Entero
+	=Boleano
+	~String
+	~Long
+ }
+##En la herencia puede haber una clase hija que hereda de una clase padre y a su vez es padre de otra clase hija:{T}
+
+##Escriba la línea de código faltante para que el código saque lo siguientey haga un salto de linea :  “la opción no es correcta"
+{
+=	public static void main(String[] args) 
+System.<<out>>.Print<<ln>> (“<<la opcion no es correcta>>”);}
+##Escriba verdadero o falso. Todos las clases necesitan un valor return para poder ser utilizadas.{F}
+##El método void puede recibir parámetros y no retornar ningún valor.{T}
+##Que método se utiliza para captar la entrada de un valor por teclado
+{
+	=Creando un objeto de la clase scanner y usando el método scanner.next()
+	~Instanciándolo en el main cuando se recibe un valor numero con double n1= entrada;
+	~No es necesario ya que java toma los valores entrados por teclado y los guarda en una variablepredefinida
+ }
+##Cual de las siguientes clases hereda de la superclase Moto:
+{
+	=Public class bicicleta extends Moto()
+	~Public static void bicicleta.Moto()
+	~Private void Moto.heredate bicileta()
+	~Private static void main Moto extends bicicleta
+ }
