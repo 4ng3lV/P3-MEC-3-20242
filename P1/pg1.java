@@ -2,5 +2,6 @@ public class fraccion{
     
     double denominador,numerador;
 public denominador{
-    this.denominador/numerador;
+    this.denominador=denominador;
+    this.numerador=numerador;
 }
